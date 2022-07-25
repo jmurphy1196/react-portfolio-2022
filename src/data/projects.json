@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "title": "CodeDoc",
+            "desc": "lorem",
+            "tools": [
+                "React",
+                "Javascript",
+                "AWS",
+                "Node"
+            ],
+            "images": [
+                "codedoc/codedoc-1.png",
+                "codedoc/codedoc-2.png",
+                "codedoc/codedoc-3.png",
+                "codedoc/codedoc-4.png"
+            ],
+            "link": "https://adoring-meitner-4b38b9.netlify.app/"
+        },
+        {
+            "title": "clipz",
+            "desc": "lorem",
+            "tools": [
+                "Angular",
+                "Typescript",
+                "WASM",
+                "Firebase"
+            ],
+            "images": [
+                "clipz/clipz-1.png",
+                "clipz/clipz-2.png",
+                "clipz/clipz-3.png",
+                "clipz/clipz-4.png"
+            ],
+            "link": "https://clips-six.vercel.app/"
+        },
+        {
+            "title": "SoundOff",
+            "desc": "lorem",
+            "tools": [
+                "React",
+                "Javascript",
+                "Material UI",
+                "Firebase"
+            ],
+            "images": [
+                "soundoff/soundoff-1.png",
+                "soundoff/soundoff-2.png",
+                "soundoff/soundoff-3.png",
+                "soundoff/soundoff-4.png"
+            ],
+            "link": "https://silly-goldberg-49d4fb.netlify.app/"
+        }
+    ],
+    "social": [
+        {
+            "icon": "ion-social-linkedin",
+            "link": "https://www.linkedin.com/in/jason-murphy-3704ba1b8/"
+        },
+        {
+            "icon": "ion-social-github",
+            "link": "https://github.com/jmurphy1196"
+        }
+    ],
+    "introText": [
+        "Problem Solver",
+        "Front End Developer",
+        "Back End Developer"
+    ]
+}

@@ -10,7 +10,7 @@ class About extends React.Component {
         { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
         {
           id: "JavaScript_skill",
-          content: "JavaScript",
+          content: "TypeScript/JavaScript",
           porcentage: "90%",
           value: "90"
         },
@@ -23,20 +23,20 @@ class About extends React.Component {
         },
         {
           id: "Python_skill",
-          content: "Python",
+          content: "Node",
           porcentage: "75%",
           value: "75"
         },
         {
           id: "VanillaJS_skill",
-          content: "VanillaJS",
+          content: "Git",
           porcentage: "85%",
           value: "85"
         },
         {
           id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "80%",
+          content: "Angular",
+          porcentage: "65%",
           value: "80"
         }
       ],
@@ -44,17 +44,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "My name is Jason Murphy. I am a front-end web developer who replicates designs using various front-end technologies"
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Currently, I am building new projects, studying python, and cloud technologies such as AWS. I love solving problems and learning new technologies."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "While not coding or learning, I enjoy watching tv (probably star trek), playing games (probably halo), and also spending time with friends and family."
         }
       ]
     };
