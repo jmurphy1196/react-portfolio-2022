@@ -1,5 +1,4 @@
 import React from 'react'
-import codeDocImg from '../img/code-doc.png';
 
 export default function Project({ projectName, desc, tools, images, link }) {
     const splashImage = images[0];
